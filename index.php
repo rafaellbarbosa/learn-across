@@ -1,5 +1,5 @@
 <?php
 
-echo 'SERVER PHP 11111 TEST';
+echo 'TEST DEPLOY 111111';
 
 ?>
